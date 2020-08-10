@@ -1,11 +1,11 @@
 # Pytorch_classification_Practice
 
-### 1.  ()
+### 1. <https://github.com/Youngb2n/Pytorch_classification_Practice/tree/master/vgg16>   
 
 > ### Model : VGG16   
-> ## Dataset : Kaggle Cat vs Dog Dataset   
+> ### Dataset : Kaggle Cat vs Dog Dataset   
    
-### 2.   ()
+### 2. <>
 > ### Model : ResNet50   
 > ### Dataset : Cifar10   
    
