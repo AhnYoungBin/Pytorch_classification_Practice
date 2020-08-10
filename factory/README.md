@@ -76,5 +76,5 @@ optional arguments:
   ```
   ! python3 /content/ex/grad.py '/content/gdrive/My Drive/dataset/test/cat/cat.1.jpg' 5 '/content/gdrive/My Drive/model/test_resnet18ep2001e5_pytorch.pth'
   ```
-<img src="/image/gradcam.PNG" width="80%" height="80%" title="img1" alt="img1"></img>   
+<img src="/image/gradcam.png" width="80%" height="80%" title="img1" alt="img1"></img>   
   
