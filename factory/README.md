@@ -1,5 +1,9 @@
 # Cat vs Dog DataSet Factory
 
+
+```
+! python3 /content/ex/main.py -h
+```
 ```
 modelnum list
 ------------------------------
