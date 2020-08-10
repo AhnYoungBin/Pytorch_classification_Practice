@@ -1,9 +1,14 @@
 # Pytorch_classification_Practice
 
-1. 
-model : VGG16
-Dataset : Kaggle Cat vs Dog Dataset
+### 1.  ()
 
-2.
-model : ResNet50
-Dataset : Cifar10
+> ### Model : VGG16   
+> ## Dataset : Kaggle Cat vs Dog Dataset   
+   
+### 2.   ()
+> ### Model : ResNet50   
+> ### Dataset : Cifar10   
+   
+### 3.   ()
+> ### Model : Classification Factory(VGG, ResNet, DenseNet)   
+> ### Dataset : Kaggle Cat vs Dog Dataset    
